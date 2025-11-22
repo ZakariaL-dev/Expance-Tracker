@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+body{
+    @apply bg-[#DDF4E7];
+}
+/* button {
+    @apply cursor-pointer rounded-xl bg-yellow-600 py-2.5 px-4 transition-all duration-100 ease-in-out hover:opacity-90 text-zinc-50 text-lg font-semibold ;
+} */
